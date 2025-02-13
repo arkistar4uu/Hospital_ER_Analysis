@@ -13,7 +13,7 @@ The dataset contains information on:
 - **Other hospital-related metrics**
 
 ### 📊 Sample Data Preview
-![Dataset Preview](https://via.placeholder.com/600x200.png?text=Dataset+Sample)
+![Dataset Preview](Dataset_Preview.png)
 
 ---
 
@@ -30,7 +30,7 @@ We analyzed:
 - **Average satisfaction score by department**
 
 #### 📈 Example Visualization
-![Wait Time vs. Satisfaction](https://via.placeholder.com/600x300.png?text=Scatter+Plot+-+Wait+Time+vs+Satisfaction)
+![Random Forest Regression: Actual vs. Predicted Scores](Random_Forest+Regression.png)
 
 ---
 

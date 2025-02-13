@@ -30,7 +30,7 @@ We analyzed:
 - **Average satisfaction score by department**
 
 #### 📈 Example Visualization
-![Random Forest Regression: Actual vs. Predicted Scores](Random_Forest+Regression.png)
+![Random Forest Regression: Actual vs. Predicted Scores](Random_Forest_Regression.png)
 
 ---
 
